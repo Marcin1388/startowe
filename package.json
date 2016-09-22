@@ -1,0 +1,26 @@
+{
+  "name": "startowy",
+  "version": "1.0.0",
+  "description": "projekt startowy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcin1388/startowe.git"
+  },
+  "author": "Marcin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcin1388/startowe/issues"
+  },
+  "homepage": "https://github.com/Marcin1388/startowe#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^1.0.0-beta.2"
+  }
+}
