@@ -8,7 +8,7 @@ var browserSync = require('browser-sync').create(); //auto-odswiezanie przeglada
 gulp.task('browserSync', function () {
     browserSync.init({
         server : {
-            baseDir : './'
+            baseDir : 'src'
         }
     })
 });
