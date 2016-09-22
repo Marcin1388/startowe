@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Marcin1388/startowe#readme",
   "devDependencies": {
+    "browser-sync": "^2.16.0",
     "gulp": "^3.9.1"
   },
   "dependencies": {
